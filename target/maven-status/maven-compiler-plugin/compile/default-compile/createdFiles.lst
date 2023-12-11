@@ -1,14 +1,14 @@
+org\mourya\sfgrestdocsexample\web\mappers\BeerMapperImpl.class
 org\mourya\sfgrestdocsexample\bootstrap\BeerLoader.class
 org\mourya\sfgrestdocsexample\domain\Beer$BeerBuilder.class
-org\mourya\sfgrestdocsexample\web\mapper\BeerMapper.class
 org\mourya\sfgrestdocsexample\SfgRestdocsExampleApplication.class
 org\mourya\sfgrestdocsexample\web\model\BeerStyleEnum.class
 org\mourya\sfgrestdocsexample\web\controller\BeerController.class
+org\mourya\sfgrestdocsexample\web\mappers\BeerMapper.class
 org\mourya\sfgrestdocsexample\domain\Beer.class
 org\mourya\sfgrestdocsexample\web\model\BeerDto.class
 org\mourya\sfgrestdocsexample\web\model\BeerDto$BeerDtoBuilder.class
 org\mourya\sfgrestdocsexample\web\model\BeerPagedList.class
-org\mourya\sfgrestdocsexample\web\mapper\DateMapper.class
-org\mourya\sfgrestdocsexample\web\mapper\BeerMapperImpl.class
 org\mourya\sfgrestdocsexample\web\controller\MvcExceptionHandler.class
+org\mourya\sfgrestdocsexample\web\mappers\DateMapper.class
 org\mourya\sfgrestdocsexample\repositories\BeerRepository.class

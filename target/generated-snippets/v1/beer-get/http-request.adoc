@@ -1,0 +1,7 @@
+[source,http,options="nowrap"]
+----
+GET /api/v1/beer/96fba5b3-7083-46d0-9dde-1518d3162e83?isCold=Yes HTTP/1.1
+Accept: application/json
+Host: org.abhishek:80
+
+----

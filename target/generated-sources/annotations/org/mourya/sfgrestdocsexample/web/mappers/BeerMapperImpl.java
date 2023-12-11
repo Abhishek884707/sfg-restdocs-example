@@ -1,4 +1,4 @@
-package org.mourya.sfgrestdocsexample.web.mapper;
+package org.mourya.sfgrestdocsexample.web.mappers;
 
 import javax.annotation.processing.Generated;
 import org.mourya.sfgrestdocsexample.domain.Beer;
@@ -9,7 +9,7 @@ import org.springframework.stereotype.Component;
 
 @Generated(
     value = "org.mapstruct.ap.MappingProcessor",
-    date = "2023-12-06T18:57:36+0530",
+    date = "2023-12-11T20:25:51+0530",
     comments = "version: 1.5.2.Final, compiler: javac, environment: Java 17.0.6 (Oracle Corporation)"
 )
 @Component

@@ -2,7 +2,7 @@ package org.mourya.sfgrestdocsexample.web.controller;
 
 import lombok.RequiredArgsConstructor;
 import org.mourya.sfgrestdocsexample.repositories.BeerRepository;
-import org.mourya.sfgrestdocsexample.web.mapper.BeerMapper;
+import org.mourya.sfgrestdocsexample.web.mappers.BeerMapper;
 import org.mourya.sfgrestdocsexample.web.model.BeerDto;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

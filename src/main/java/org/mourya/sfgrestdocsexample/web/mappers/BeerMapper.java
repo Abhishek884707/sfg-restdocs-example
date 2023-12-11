@@ -1,4 +1,4 @@
-package org.mourya.sfgrestdocsexample.web.mapper;
+package org.mourya.sfgrestdocsexample.web.mappers;
 
 import org.mapstruct.Mapper;
 import org.mourya.sfgrestdocsexample.domain.Beer;

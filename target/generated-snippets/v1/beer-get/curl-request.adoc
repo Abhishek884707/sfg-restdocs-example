@@ -1,0 +1,5 @@
+[source,bash]
+----
+$ curl 'https://org.abhishek:80/api/v1/beer/96fba5b3-7083-46d0-9dde-1518d3162e83?isCold=Yes' -i -X GET \
+    -H 'Accept: application/json'
+----
